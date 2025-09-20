@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-09-20 at 16 24 04_4e516735](https://github.com/user-attachments/assets/78e6e44b-a454-4a14-9a0b-1a03cf4d7b78)# Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
