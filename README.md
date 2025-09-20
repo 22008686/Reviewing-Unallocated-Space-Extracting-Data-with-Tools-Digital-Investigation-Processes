@@ -42,6 +42,14 @@ flowchart TD
 
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2025-09-20 160354" src="https://github.com/user-attachments/assets/71ad99b6-8462-494d-8ff0-e3da020c7ec5" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-20 160423" src="https://github.com/user-attachments/assets/b1c02813-fa77-47a9-9be1-ba97ff0dba88" />
+![WhatsApp Image 2025-09-20 at 16 24 04_91dc2111](https://github.com/user-attachments/assets/e04eea9e-de5d-440d-b57a-4be6cf261ddf)
+![WhatsApp Image 2025-09-20 at 16 24 04_5a3ff8f6](https://github.com/user-attachments/assets/4150f80e-71d0-4f9d-8d3d-6d27f2e832cb)
+![Uploading WhatsApp Image 2025-09-20 at 16.24.04_ae869791.jpg…]()
+
+
+
 Unallocated Space Analysis and Extracted Data Report
 
 ## RESULT:
