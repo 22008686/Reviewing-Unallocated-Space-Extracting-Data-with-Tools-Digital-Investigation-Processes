@@ -1,4 +1,4 @@
-# Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
+![WhatsApp Image 2025-09-20 at 16 24 04_4e516735](https://github.com/user-attachments/assets/78e6e44b-a454-4a14-9a0b-1a03cf4d7b78)# Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
@@ -44,9 +44,9 @@ flowchart TD
 ## OUTPUT:
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 160354" src="https://github.com/user-attachments/assets/71ad99b6-8462-494d-8ff0-e3da020c7ec5" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-20 160423" src="https://github.com/user-attachments/assets/b1c02813-fa77-47a9-9be1-ba97ff0dba88" />
-![WhatsApp Image 2025-09-20 at 16 24 04_91dc2111](https://github.com/user-attachments/assets/e04eea9e-de5d-440d-b57a-4be6cf261ddf)
-![WhatsApp Image 2025-09-20 at 16 24 04_5a3ff8f6](https://github.com/user-attachments/assets/4150f80e-71d0-4f9d-8d3d-6d27f2e832cb)
-![Uploading WhatsApp Image 2025-09-20 at 16.24.04_ae869791.jpg…]()
+![WhatsApp Image 2025-09-20 at 16 24 04_4e516735](https://github.com/user-attachments/assets/0295f6fe-8018-4134-b6d1-a87f90c3a931)
+![WhatsApp Image 2025-09-20 at 16 24 04_6954d9e4](https://github.com/user-attachments/assets/f1aeb4ba-ab22-462b-a438-d03088c7c1d9)
+![WhatsApp Image 2025-09-20 at 16 24 04_367b0263](https://github.com/user-attachments/assets/ab5c26ad-e9bf-452b-aa5d-d957cf2a897d)
 
 
 
